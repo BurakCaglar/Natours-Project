@@ -9,6 +9,7 @@
 
 @import "./components/buttons";
 @import "./components/composition";
+@import "./components/feature-box";
 
 @import "./layout/grid";
 @import "./layout/header";
@@ -23,7 +24,4 @@
 
 html {
   font-size: 10px;
-}
-
-body {
 }
